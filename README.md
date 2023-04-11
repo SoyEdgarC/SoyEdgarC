@@ -1,6 +1,6 @@
-### Hola! Soy Edgar Castellanos👋
+# Hola! Soy Edgar Castellanos👋
 
-***Estudié Urbanismmo, y estoy interesado en...
+##Soy Urbanista, y estoy interesado en...
 
 <!--
 **SoyEdgarC/SoyEdgarC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
