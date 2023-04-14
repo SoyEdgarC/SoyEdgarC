@@ -1,6 +1,6 @@
 # Hola! Soy Edgar Castellanos👋
 
-## Soy Urbanista, y estoy interesado en...
+## Soy Urbanista, actualmente trabajo en análisis normativo para el sector inmobiliario, estoy interesado también en el análisis de datos geoespaciales y la movilidad.
 
 <!--
 **SoyEdgarC/SoyEdgarC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
