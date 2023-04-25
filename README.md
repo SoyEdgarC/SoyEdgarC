@@ -2,7 +2,15 @@
 
 ## Soy Urbanista, actualmente trabajo en análisis normativo para el sector inmobiliario, estoy interesado también en el análisis de datos geoespaciales y la movilidad.
 
-Cada día aprendo, actualmente estoy enfocado en manejar Python utilizarlo para análisis en QGIS.
+Cada día aprendo, actualmente estoy enfocado en manejar Python con Numbpy utilizarlo para análisis en QGIS.
+
+Contactame en: 
+
+[Edgar Castellanos (@EdgarCCity) / Twitter](https://twitter.com/EdgarCCity)
+
+
+
+Fun Fact: Me gustan los videojuegos, la tecnología y los animales.
 
 
 
