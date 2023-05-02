@@ -1,10 +1,13 @@
 # Hola! Soy Edgar Castellanos👋
 
-## Soy Urbanista, actualmente trabajo en análisis normativo para el sector inmobiliario, estoy interesado también en el análisis de datos geoespaciales y la movilidad.
+## Quien soy?
+Soy Urbanista, actualmente trabajo en análisis normativo para el sector inmobiliario, estoy interesado también en el análisis de datos geoespaciales y la movilidad.
+
+## Actualmente aprendiendo...
 
 Cada día aprendo, actualmente estoy enfocado en manejar Python con Numbpy utilizarlo para análisis en QGIS.
 
-Contactame en: 
+##Contactame en: 
 
 [Edgar Castellanos (@EdgarCCity) / Twitter](https://twitter.com/EdgarCCity)
 
