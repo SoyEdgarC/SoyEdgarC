@@ -14,7 +14,6 @@ Cada día aprendo, actualmente estoy enfocado en manejar Python con Numbpy utili
 
 
 
-Fun Fact: Me gustan los videojuegos, la tecnología y los animales.
 
 
 
