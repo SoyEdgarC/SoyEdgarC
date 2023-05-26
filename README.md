@@ -1,7 +1,8 @@
 # Hola! Soy Edgar Castellanos👋
 
-## Quien soy?
-Soy Urbanista, actualmente trabajo en análisis normativo para el sector inmobiliario, estoy interesado también en el análisis de datos geoespaciales y la movilidad.
+## Sobre mi
+
+Soy Urbanista, actualmente trabajo en análisis normativo y geoespacial para el sector inmobiliario realizando estudios de impacto urbano - ambiental, poligonos de actuación, análisis de potencial constructivo, etc. para HGP Consultores en la CDMX. 
 
 ## Actualmente aprendiendo...
 
